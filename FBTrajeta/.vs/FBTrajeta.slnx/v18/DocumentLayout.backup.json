@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\FBTrajeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A3CD0E-C1D3-6CD5-6C0C-E68BBB035CB0}|FBTrajeta\\FBTrajeta.csproj|d:\\angular\\fbtrajeta\\fbtrajeta\\models\\trajetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A3CD0E-C1D3-6CD5-6C0C-E68BBB035CB0}|FBTrajeta\\FBTrajeta.csproj|solutionrelative:fbtrajeta\\models\\trajetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A3CD0E-C1D3-6CD5-6C0C-E68BBB035CB0}|FBTrajeta\\FBTrajeta.csproj|d:\\angular\\fbtrajeta\\fbtrajeta\\controllers\\trajetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A3CD0E-C1D3-6CD5-6C0C-E68BBB035CB0}|FBTrajeta\\FBTrajeta.csproj|solutionrelative:fbtrajeta\\controllers\\trajetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A3CD0E-C1D3-6CD5-6C0C-E68BBB035CB0}|FBTrajeta\\FBTrajeta.csproj|d:\\angular\\fbtrajeta\\fbtrajeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A3CD0E-C1D3-6CD5-6C0C-E68BBB035CB0}|FBTrajeta\\FBTrajeta.csproj|solutionrelative:fbtrajeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrajetaCredito.cs",
+              "DocumentMoniker": "D:\\Angular\\FBTrajeta\\FBTrajeta\\Models\\TrajetaCredito.cs",
+              "RelativeDocumentMoniker": "FBTrajeta\\Models\\TrajetaCredito.cs",
+              "ToolTip": "D:\\Angular\\FBTrajeta\\FBTrajeta\\Models\\TrajetaCredito.cs",
+              "RelativeToolTip": "FBTrajeta\\Models\\TrajetaCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:57:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\FBTrajeta\\FBTrajeta\\Program.cs",
+              "RelativeDocumentMoniker": "FBTrajeta\\Program.cs",
+              "ToolTip": "D:\\Angular\\FBTrajeta\\FBTrajeta\\Program.cs",
+              "RelativeToolTip": "FBTrajeta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:57:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrajetaController.cs",
+              "DocumentMoniker": "D:\\Angular\\FBTrajeta\\FBTrajeta\\Controllers\\TrajetaController.cs",
+              "RelativeDocumentMoniker": "FBTrajeta\\Controllers\\TrajetaController.cs",
+              "ToolTip": "D:\\Angular\\FBTrajeta\\FBTrajeta\\Controllers\\TrajetaController.cs",
+              "RelativeToolTip": "FBTrajeta\\Controllers\\TrajetaController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:34:25.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

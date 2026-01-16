@@ -1,0 +1,6 @@
+@FBTrajeta_HostAddress = http://localhost:5241
+
+GET {{FBTrajeta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

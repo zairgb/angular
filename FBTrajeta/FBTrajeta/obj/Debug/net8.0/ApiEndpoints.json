@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "FBTrajeta.Controllers.TrajetaController",
+    "Method": "Get",
+    "RelativePath": "api/Trajeta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FBTrajeta.Models.TrajetaCredito, FBTrajeta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FBTrajeta.Controllers.TrajetaController",
+    "Method": "Post",
+    "RelativePath": "api/Trajeta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trajeta",
+        "Type": "FBTrajeta.Models.TrajetaCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FBTrajeta.Controllers.TrajetaController",
+    "Method": "Put",
+    "RelativePath": "api/Trajeta/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "trajeta",
+        "Type": "FBTrajeta.Models.TrajetaCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FBTrajeta.Controllers.TrajetaController",
+    "Method": "Delete",
+    "RelativePath": "api/Trajeta/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
